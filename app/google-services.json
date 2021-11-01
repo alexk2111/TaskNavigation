@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528459936151",
+    "project_id": "tasknavigation",
+    "storage_bucket": "tasknavigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528459936151:android:0a3757b548080a154194d2",
+        "android_client_info": {
+          "package_name": "com.sigmasoftware.akucherenko.tasknavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528459936151-hjojhcq5433c27c1e3copesqv81n18hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sigmasoftware.akucherenko.tasknavigation",
+            "certificate_hash": "3a1f392fedf35c1f481347421951ab1f1db311e6"
+          }
+        },
+        {
+          "client_id": "528459936151-5qs043g1bf6vmfnbql4epo679b8j4bae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrHPqCJJaKU4cl6v6Zecw6Nt0HegoNik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528459936151-5qs043g1bf6vmfnbql4epo679b8j4bae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
