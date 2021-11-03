@@ -35,4 +35,9 @@
             app:argType="string"
             android:defaultValue="NoName" />
     </fragment>
+    <fragment
+        android:id="@+id/messageFragment"
+        android:name="com.sigmasoftware.akucherenko.tasknavigation.MessageFragment"
+        android:label="fragment_message"
+        tools:layout="@layout/fragment_message" />
 </navigation>
